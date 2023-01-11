@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saphereye&show_icons=true&locale=en&layout=compact" alt="saphereye" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saphereye&show_icons=true&locale=en" alt="saphereye" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saphereye&show_icons=true&locale=en" alt="saphereye" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saphereye&" alt="saphereye" /></p>
