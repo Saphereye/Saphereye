@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Das</h1>
 <h3 align="center">A passionate developer interested in all things computers</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye" alt="saphereye" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p>
 
 - 🔭 I’m currently working on [mark-editor](https://github.com/Saphereye/mark-editor)
 
