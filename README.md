@@ -4,6 +4,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p> -->
 
+CSE Student at BITS, Hyderabad Campus
 - 🔭 Open to internships
 - 💬 Make sure to check [my website](https://saphereye.github.io/)
 - 🌱 I’m currently learning **Python, Godot, Rust**
