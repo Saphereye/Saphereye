@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adarsh Das</h1>
-<h3 align="center">A passionate developer interested in all things computers</h3>
+<!-- <h3 align="center">A passionate developer interested in all things computers</h3> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&vCenter=true&random=false&width=800&lines=A+passionate+developer;Team+player;Filled+with+passion;Enthusiastic+problem-solver;Agile+learner+(not+the+framework+%3AP);Detail-oriented+creator" alt="Typing SVG" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p> -->
 
 - 🔭 Open to internships
 - 💬 Make sure to check [my website](https://saphereye.github.io/)
