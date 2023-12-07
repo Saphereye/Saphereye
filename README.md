@@ -3,15 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p>
 
-- 🔭 I’m currently working on [mark-editor](https://github.com/Saphereye/mark-editor)
-
+- 🔭 Open to internships
+- 💬 Make sure to check [my website](https://saphereye.github.io/)
 - 🌱 I’m currently learning **Python, Godot, Rust**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Saphereye](https://github.com/Saphereye)
-
-- 💬 Ask me about **Godot**
-
-- 📫 How to reach me **adarshdas950@gmail.com**
+- 📫 Email me at **adarshdas950@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
