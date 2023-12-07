@@ -3,10 +3,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&vCenter=true&random=false&width=800&lines=A+passionate+developer;Team+player;Filled+with+passion;Enthusiastic+problem-solver;Agile+learner+(not+the+framework+%3AP);Detail-oriented+creator" alt="Typing SVG" /></a>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p> -->
+[![Linkedin: Adarsh Das](https://img.shields.io/badge/-adarshdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-das-8684ab240/)](https://www.linkedin.com/in/adarsh-das-8684ab240/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/saphereye?label=follow&style=social)](https://github.com/saphereye)
 
 CSE Student at BITS, Hyderabad Campus
 - 🔭 Open to internships
 - 💬 Make sure to check [my website](https://saphereye.github.io/)
+- 💻 Ubuntu enthusiast
 - 🌱 I’m currently learning **Python, Godot, Rust**
 - 👨‍💻 All of my projects are available at [https://github.com/Saphereye](https://github.com/Saphereye)
 - 📫 Email me at **adarshdas950@gmail.com**
