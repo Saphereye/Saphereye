@@ -9,7 +9,7 @@
 CSE Student at BITS, Hyderabad Campus
 - 🔭 Open to internships
 - 💬 Make sure to check [my website](https://saphereye.github.io/)
-- 💻 Ubuntu enthusiast
+- 💻 I use Arch BTW
 - 🌱 I’m currently learning **Python, Godot, Rust**
 - 👨‍💻 All of my projects are available at [https://github.com/Saphereye](https://github.com/Saphereye)
 - 📫 Email me at **adarshdas950@gmail.com**
