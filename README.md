@@ -7,10 +7,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/saphereye?label=follow&style=social)](https://github.com/saphereye)
 
 CSE Student at BITS, Hyderabad Campus
-- 🔭 Open to internships
 - 💬 Make sure to check [my website](https://saphereye.github.io/)
-- 💻 I use Arch BTW
-- 🌱 I’m currently learning **Python, Godot, Rust**
 - 👨‍💻 All of my projects are available at [https://github.com/Saphereye](https://github.com/Saphereye)
 - 📫 Email me at **adarshdas950@gmail.com**
 
